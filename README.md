@@ -58,10 +58,8 @@ Following are my major skills
 🔺 NFTs 🔺 DeFi 🔺 DEXs 🔺 Cross Chain Bridge 🔺 Multsig Wallets 🔺 Ethereum  🔺 Polygon 🔺 Tron 🔺 BSC 🔺 Cardano 🔺 XRPL 🔺 Uniswap 🔺 Hardhat + Truffle + Ethers.js + Web3.js 🔺 Next Js 🔺 Responsive Web development 🔺 Passionate about Blockchain industry 🔺 Listening and understanding 🔺 Team work
 
 
-## Projects 💻🔧
-Let's have a sneak-peak on what I've built so far :
-
-### Personal Projects
+## Personal Projects 💻🔧
+Let's have a sneak-peak on what I've built in the public so far  :
 
 💠 [**ETH-BSC Swap Bridge**](https://github.com/0xumarkhatab/ETH-BSC-Swap-Bridge-using-Signature-Verfication) - Swap your tokens across Ethereum and Binance smart chain.
 
