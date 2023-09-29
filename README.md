@@ -19,6 +19,7 @@ My current focus is Exploring and Building FinTech and DeFi protocols.
 
 # About Me 
 As a Blockchain Engineer, I specialize in building scalable and cost-effective blockchain systems.
+
 Following are my major skills
 
 ## Area of Expertise 🛠️
