@@ -49,7 +49,7 @@ Following are my major skills
 ## Personal Projects 💻🔧
 Let's have a sneak-peak at what I've built in the public so far  :
 
-#### Only Solidity-based ( Solidity on Steriods )
+### Only Solidity-based ( Solidity on Steriods )
 
 💠 [**ETH-BSC Swap Bridge**](https://github.com/0xumarkhatab/ETH-BSC-Swap-Bridge-using-Signature-Verfication) - Swap your tokens across Ethereum and Binance smart chain.
 
@@ -63,7 +63,7 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 💠 [**ETH - BSC Bridge**](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - A cross-chain bridge to trade Native tokens across Ethereum and Binance smart chain.
 
-#### Fullstack
+### Fullstack DApps
 
 💠 [**Non-Custodial Wallet**](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - Metamask-like wallet that can generate accounts, hold funds, and trade assets.
 
