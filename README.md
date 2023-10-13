@@ -50,12 +50,10 @@ Following are my major skills
 Let's have a sneak-peak at what I've built in the public so far  :
 
 ### Only Solidity-based ( Solidity on Steriods )
-
-💠 [**ETH-BSC Swap Bridge**](https://github.com/0xumarkhatab/ETH-BSC-Swap-Bridge-using-Signature-Verfication) - Swap your tokens across Ethereum and Binance smart chain.
+💠 [**EVM Swap Bridge**](https://github.com/0xumarkhatab/AnyChainSwap) - Swap your tokens across Ethereum,Binance,Polygon and Tron with Multiple Signature functionality
 
 💠 [**Uniswap V2 Dex**](https://github.com/0xumarkhatab/UniswapV2Dex) - Create and Trade pairs by adding liquidity and swap methods using Uniswap V2 smart contracts.
 
-💠 [**Multisig ETH - BSC Bridge**](https://github.com/0xumarkhatab/Multisig-CrossChain-Bridge-ETH-BSC) - A multi-signature cross-chain bridge to trade Native tokens across Ethereum and Binance smart chain.
 
 💠 [ **Multisig Transfer _ Role-based Access** ](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - Role-based Multi-Sig having admin and managers role for proposing transactions.
 
