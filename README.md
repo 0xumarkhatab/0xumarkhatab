@@ -7,22 +7,20 @@
 
 
 # Introduction
-Hi human, I'm Umar Khatab.
-
-A Full-stack Blockchain Engineer who secures DeFi protocols for fun and profit in free time.
+Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer.
 
 My experience in Fullstack Blockchain Engineering is 2.5 years as of October 2023.
 
-My current focus is learning how to build Enterprise Blockchain Systems from scratch using Hyperledger.
+I Love building scalable Blockchain solutions tailored to the needs of my clients.
 
-Also in love with the advancements of Generative AI + Blockchain use cases.
+In My free time , i simplify complex concepts for people on my youtube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos)
 
 ## My Career Aspects:
 - Senior Blockchain Engineer
 - Security researcher
 
 # 1. About Me (As a Blockchain Engineer)
-As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low-cost, and better User experiences.
+As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences.
 Following are my major skills
 
 ## Area of Expertise 🛠️
