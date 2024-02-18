@@ -9,7 +9,7 @@
 # Introduction
 Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer.
 
-My experience in Fullstack Blockchain Engineering is 2.5 years as of October 2023.
+My experience in Fullstack Blockchain Engineering is 3 years.
 
 I Love building scalable Blockchain solutions tailored to the needs of my clients.
 
