@@ -7,13 +7,11 @@
 
 
 # Introduction
-Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer.
+Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer for over 3 years now.
 
-My experience in Fullstack Blockchain Engineering is 3 years.
+I Love building scalable custom Blockchain solutions and securing existing Blockchain protocols.
 
-I Love building scalable Blockchain solutions tailored to the needs of my clients.
-
-In My free time , i simplify complex concepts for people on my youtube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos)
+I have a YouTube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos) where I simplify complex blockchain-based concepts.
 
 ## My Career Aspects:
 - Senior Blockchain Engineer
@@ -49,7 +47,7 @@ Following are my major skills
 Let's have a sneak-peak at what I've built in the public so far  :
 
 ### Only Solidity-based ( Solidity on Steriods )
-💠 [**EVM Swap Bridge**](https://github.com/0xumarkhatab/AnyChainSwap) - Swap your tokens across Ethereum,Binance,Polygon and Tron with Multiple Signature functionality
+💠 [**EVM Swap Bridge**](https://github.com/0xumarkhatab/AnyChainSwap) - Swap your tokens across Ethereum, Binance Smart Chain , Polygon and Tron with Multiple Signature functionality
 
 💠 [**Uniswap V2 Dex**](https://github.com/0xumarkhatab/UniswapV2Dex) - Create and Trade pairs by adding liquidity and swap methods using Uniswap V2 smart contracts.
 
@@ -66,9 +64,9 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 💠 [**Swap Stream**](https://swap-stream.vercel.app) - A Uniswap V2 model-based Constant Product AMM where you can swap, add liquidity, and remove liquidity.
 
-💠 [**Staker**](https://github.com/0xumarkhatab/Staker) - A platform to stake your money and earn 0.001 MATIC each second until staking time is left.
+💠 [**Staker**](https://github.com/0xumarkhatab/Staker) - A platform to stake your money and earn 0.001 MATIC each second until the staking time is left.
 
-💠 [**Slope Leverage**](https://github.com/0xumarkhatab/SlopeLeverage) - A Platform where you can buy tokens at a lower price, hold it and sell them at higher prices.
+💠 [**Slope Leverage**](https://github.com/0xumarkhatab/SlopeLeverage) - A Platform where you can buy tokens at a lower price, hold them and sell them at higher prices.
 
 💠 [**Rentweb3**](https://github.com/rentweb3) - A complete rental protocol for NFTs and Dapps. 
 
@@ -79,9 +77,9 @@ Let's have a sneak-peak at what I've built in the public so far  :
   - [IPFS NFT Marketplace](https://github.com/0xumarkhatab/IPFS-NFT-Collection) <br/>
   - and a [DAO to mint NFTs governed by Community](https://github.com/0xumarkhatab/NFT-Purchase-DAO) <br/>
 
-💠 [**CryptoFolio-ai**](https://cryptofolio-ai.vercel.app/) - A crypto portfolio management system providing arbitrage opportunties. Working on risk analysis now.
+💠 [**CryptoFolio-ai**](https://cryptofolio-ai.vercel.app/) - A crypto portfolio management system providing arbitrage opportunities. Working on risk analysis now.
 
-💠 [**Synergy**](https://github.com/0xumarkhatab/synergy) - A place to aggregate your social media presence at one place on a Decentralized Storage
+💠 [**Synergy**](https://github.com/0xumarkhatab/synergy) - A place to aggregate your social media presence in one place on a Decentralized Storage
 
 💠 [**Decentralized Identity**](https://github.com/0xumarkhatab/Decentralized-Identity-Ceramic-Ethereum) - Maintain your anonymous decentralized identity coming from the blockchain wallets using Ceramic.
 
@@ -116,15 +114,11 @@ Let's see about the various skills I have :
 | ------ | ---------------------------- |------------|
 | Bug hunter | So far, I've audited 3 protocols<br/> Leaderboard Rank #109 <br/> Found 3 Highs , 2 Mediums and 4 Lows  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
 | CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
-| Gas Optimizer | Learned Yul level EVM to optimize gas |[My Gas Optimization work ](https://github.com/0xumarkhatab/myGasOptimizationWork) |
-|<p > Blockchain Content Writing <br/><br/> Giving back to the community</p> | A sneak peak into my work 👇 <br/>- [Races Writeup](https://twitter.com/0xumarkhatab/status/1681535835018268673?s=20) <br/> - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)<br/> - [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)<br/> - [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)<br/> - [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop) <br/>- [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)<br/><br/> ...etc | ✔ I simplify complex concepts<br/>  and strive to put them in a way<br/>  that a 10-20 year non-tech person can understand. <br/><br/>  Visit [My Twitter](https://twitter.com/0xumarkhatab) for latest content |
+|<p > Blockchain Content Writing <br/><br/> Giving back to the community</p> | A sneak peak into my work 👇 <br/> - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)<br/> - [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)<br/> - [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)<br/> - [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop) <br/>- [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)<br/><br/> ...etc | ✔ I simplify complex concepts<br/>  and strive to put them in a way<br/>  that a 10-20 year non-tech person can understand. <br/><br/>  Visit [My Twitter](https://twitter.com/0xumarkhatab) for latest content |
 | Confident reading and writing Solidity code | 2+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
 | ERC standards familiarity | 1. Erc 20 <br/> 2. Erc 165<br/> 3. Erc 721<br/> 4. Erc 777<br/> 5. Erc 1155<br/> 6. Erc 4626<br/> a lot more ... | continuous journey to learn | No particular reference |
-| Protocol Engineering & Documentation        | Built my own with a friend | [RentWeb3](https://github.com/rentweb3)
 | Protocol Infrastructure <br/>| - POW, POS,PoX,PoB <br/> - Block construction. <br/> - TX propagation and mempool <br/> - Nodes and clients. <br/> - Familiar with other EVM blockchains<br/> | EVM chains <br/> - Ethereum <br/> - Tron <br/> - Polygon <br/> - Celo <br/> Non-EVM<br/> - XRP <br/> - Cardano |
-| Tech-stack | - React Js<br/> - Node Js <br/> - Solidity<br/> - Express Js <br/> - Mongo DB <br/> ....| [My Web3 Work](#about-me-as-a-blockchain-engineer) |
 | Development And Testing Frameworks | - Ethers & Web3 Js<br/> - Foundry <br/> - Hardhat <br/> - Brownie( learning now) <br/> - Truffle <br/> - Remix IDE | Foundry is becoming the most beloved framework of mine |
-| Infrastructure Tools |- Vscode<br/> - Github<br/> - Block-Explorers and their APIs  |More than 2 years now |
 
 ## Courses and stuff ( Bottom UP )
 
@@ -152,17 +146,18 @@ Let's see about the various skills I have :
 ### Facts About me 🚀💼
 
 
-- 21-year-old web3 startup founder - Check out [**RentWeb3**](https://github.com/rentweb3)
+- Young startup founder - Check out [**RentWeb3**](https://github.com/rentweb3)
 
 - Helped 100 people start learning blockchain technology 
 
-- Learnweb3DAo Gold Contributor
+- Learnweb3Dao Grand Master
 
 ### Education 🧠📚🚀
 
 **Bachelor in Computer Science** :
   Fast Nuces Lahore 
-    - Pakistan's #1 Institute for Computer Science 
+    - Pakistan's Nobel Institute for Learning Computer Science 
+
 ### Let's connect:
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/0xumarkhatab/) 🔗💼
