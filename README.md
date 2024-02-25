@@ -11,7 +11,7 @@ Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer for over 3 years no
 
 I Love building scalable custom Blockchain solutions and securing existing Blockchain protocols.
 
-I have a YouTube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos) where I simplify complex blockchain-based concepts.
+I have a YouTube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos) where I simplify blockchain for people.
 
 ## My Career Aspects:
 - Senior Blockchain Engineer
