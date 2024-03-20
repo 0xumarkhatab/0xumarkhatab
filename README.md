@@ -11,14 +11,38 @@ Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer for over 3 years no
 
 I Love building scalable custom Blockchain solutions and securing existing Blockchain protocols.
 
-I have a YouTube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos) where I simplify blockchain for people.
+I have started a YouTube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos) where I'll be delivering in-depth explanation about several blockchain topics.
 
-## My Career Aspects:
+# My Career Aspects:
+- Web3 Security Researcher
 - Senior Blockchain Engineer
-- Security researcher
 
+## 1. About Me ( As a Security Researcher)
 
-# 1. About Me (As a Blockchain Engineer)
+Let's see about the various skills I have :
+
+|  Skill Title  | Experience / Comments| Explanation / Reference |
+| ------ | ---------------------------- |------------|
+| Bug hunter | So far, I've audited 8 protocols(uptill  March 2024)<br/> Found 10+ Criticals , 9+ Highs , 11+ Mediums. <br/> These days i'm learning & securing protocols on immunefi.<br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
+| CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
+|<p > Blockchain Content Writing <br/><br/> Giving back to the community</p> | A sneak peak into my work 👇 <br/> - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)<br/> - [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)<br/> - [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)<br/> - [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop) <br/>- [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)<br/><br/> ...etc | ✔ I simplify complex concepts<br/>  and strive to put them in a way<br/>  that a 10-20 year non-tech person can understand. <br/><br/>  Visit [My Twitter](https://twitter.com/0xumarkhatab) for latest content |
+| Confident reading and writing Solidity code | 2+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
+| ERC standards familiarity | 1. Erc 20 <br/> 2. Erc 165<br/> 3. Erc 721<br/> 4. Erc 777<br/> 5. Erc 1155<br/> 6. Erc 4626<br/> a lot more ... | continuous journey to learn | No particular reference |
+| Protocol Infrastructure <br/>| - POW, POS,PoX,PoB <br/> - Block construction. <br/> - TX propagation and mempool <br/> - Nodes and clients. <br/> - Familiar with other EVM blockchains<br/> | EVM chains <br/> - Ethereum <br/> - Tron <br/> - Polygon <br/> - Celo <br/> Non-EVM<br/> - XRP <br/> - Cardano |
+| Development And Testing Frameworks | - Ethers & Web3 Js<br/> - Foundry <br/> - Hardhat <br/> - Brownie( learning now) <br/> - Truffle <br/> - Remix IDE | Foundry is becoming the most beloved framework of mine |
+
+## Courses and stuff ( Bottom UP )
+
+|  Title | Completion | Comments |
+| -------- | ---------- |------------|
+| Secureum Bootcamp - Epoch ∞ | in-progress |  - Scored 4/8 in Race 19   <br/> - Visited past 18 races. Check my [Races Write-Up](https://github.com/0xumarkhatab/Secureum-Races) |
+| Secureum Bootcamp - Epoch0 | 100% | Got started with in-depth smart contracts security  |
+| Mastering Ethereum Book | 100% | Deep dive into EVM  |
+| Ethereum yellow & whitepaper | 100% | Deep dive into Ethereum protocol infrastructure  |
+| DeFi - A Deep Dive - Coursera | 100% | Learned about following 👇 <br/><br/> 🐱‍🏍 Concepts <br/><br/>&nbsp; - AMMs <br/>&nbsp; - Lending/Borrow <br/>&nbsp; - Collateral <br/>&nbsp; - staking <br/>&nbsp; ..etc <br/><br/> 💪 Protocols <br/>&nbsp; - Uniswap <br/>&nbsp; - Aave <br/>&nbsp; - Compound <br/>&nbsp; - DyDx <br/>&nbsp; ..etc |
+| Bachelor in Computer Science | 97% | Got hands-on experience with 👇<br/><br/>1. Web2 Information Security<br/>2. X86 Processor Architecture Assembly interpreter <br/>3. Data Structures and Algorithms <br/>4. Software Design <br/>5. Software Engineering <br/>6. Artificial Intelligence <br/>7. Operating Systems<br/>8. Professional Practices <br/>9. Psychology of Society <br/> 10. Communication & Presentation skills<br/><br/>...and so much more.|
+
+## 2. About Me (As a Blockchain Engineer)
 As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences.
 Following are my major skills
 
@@ -104,32 +128,6 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 🛡 [**CryptoPunk**](https://github.com/0xumarkhatab/CryptoPunk) - A juicy front end for an NFTs exchange platform.
 
-
-
-### 2. About Me ( As a Security Researcher)
-
-Let's see about the various skills I have :
-
-|  Skill Title  | Experience / Comments| Explanation / Reference |
-| ------ | ---------------------------- |------------|
-| Bug hunter | So far, I've audited 3 protocols<br/> Leaderboard Rank #109 <br/> Found 3 Highs , 2 Mediums and 4 Lows  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
-| CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
-|<p > Blockchain Content Writing <br/><br/> Giving back to the community</p> | A sneak peak into my work 👇 <br/> - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)<br/> - [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)<br/> - [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)<br/> - [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop) <br/>- [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)<br/><br/> ...etc | ✔ I simplify complex concepts<br/>  and strive to put them in a way<br/>  that a 10-20 year non-tech person can understand. <br/><br/>  Visit [My Twitter](https://twitter.com/0xumarkhatab) for latest content |
-| Confident reading and writing Solidity code | 2+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
-| ERC standards familiarity | 1. Erc 20 <br/> 2. Erc 165<br/> 3. Erc 721<br/> 4. Erc 777<br/> 5. Erc 1155<br/> 6. Erc 4626<br/> a lot more ... | continuous journey to learn | No particular reference |
-| Protocol Infrastructure <br/>| - POW, POS,PoX,PoB <br/> - Block construction. <br/> - TX propagation and mempool <br/> - Nodes and clients. <br/> - Familiar with other EVM blockchains<br/> | EVM chains <br/> - Ethereum <br/> - Tron <br/> - Polygon <br/> - Celo <br/> Non-EVM<br/> - XRP <br/> - Cardano |
-| Development And Testing Frameworks | - Ethers & Web3 Js<br/> - Foundry <br/> - Hardhat <br/> - Brownie( learning now) <br/> - Truffle <br/> - Remix IDE | Foundry is becoming the most beloved framework of mine |
-
-## Courses and stuff ( Bottom UP )
-
-|  Title | Completion | Comments |
-| -------- | ---------- |------------|
-| Secureum Bootcamp - Epoch ∞ | in-progress |  - Scored 4/8 in Race 19   <br/> - Visited past 18 races. Check my [Races Write-Up](https://github.com/0xumarkhatab/Secureum-Races) |
-| Secureum Bootcamp - Epoch0 | 100% | Got started with in-depth smart contracts security  |
-| Mastering Ethereum Book | 100% | Deep dive into EVM  |
-| Ethereum yellow & whitepaper | 100% | Deep dive into Ethereum protocol infrastructure  |
-| DeFi - A Deep Dive - Coursera | 100% | Learned about following 👇 <br/><br/> 🐱‍🏍 Concepts <br/><br/>&nbsp; - AMMs <br/>&nbsp; - Lending/Borrow <br/>&nbsp; - Collateral <br/>&nbsp; - staking <br/>&nbsp; ..etc <br/><br/> 💪 Protocols <br/>&nbsp; - Uniswap <br/>&nbsp; - Aave <br/>&nbsp; - Compound <br/>&nbsp; - DyDx <br/>&nbsp; ..etc |
-| Bachelor in Computer Science | 97% | Got hands-on experience with 👇<br/><br/>1. Web2 Information Security<br/>2. X86 Processor Architecture Assembly interpreter <br/>3. Data Structures and Algorithms <br/>4. Software Design <br/>5. Software Engineering <br/>6. Artificial Intelligence <br/>7. Operating Systems<br/>8. Professional Practices <br/>9. Psychology of Society <br/> 10. Communication & Presentation skills<br/><br/>...and so much more.|
 
 ### Contributions 📚🧠
     🔰 Gold Contributor ✨ at LearnWeb3Dao
