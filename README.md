@@ -7,7 +7,7 @@
 
 
 # Introduction
-Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer for over 3 years now.
+Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer for over 3 years.
 
 I Love building scalable custom Blockchain solutions and securing existing Blockchain protocols.
 
