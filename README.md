@@ -10,9 +10,15 @@
 # Introduction
 Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer for over 3 years.
 
-I Love building scalable custom Blockchain solutions and securing existing Blockchain protocols.
+Built 15+ scalable web3 protocols
 
-I have started a YouTube channel [ Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos) where I'll be delivering in-depth explanation about several blockchain topics.
+Focused on Securing new Web3 Projects.
+
+1.5 Years Being a Security Researcher - Learning and Practicing 
+
+[YouTube channel- Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos)
+ 
+
 
 # My Career Aspects:
 - Web3 Security Researcher
@@ -24,7 +30,7 @@ Let's see about the various skills I have :
 
 |  Skill Title  | Experience / Comments| Explanation / Reference |
 | ------ | ---------------------------- |------------|
-| Bug hunter | 10+ Protocols ( April 2024 )<br/> 5+ Criticals, 6+ Highs, and 10+ Medium in Live protocols <br/> Focusing on Cantina + Cod4rena <br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
+| Bug hunter | 10+ Protocols ( April 2024 )<br/> 5+ Criticals, 6+ Highs, and 10+ Mediums <br/> Focusing on Cantina + Cod4rena <br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
 | CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
 |<p > Blockchain Content Writing <br/><br/> Giving back to the community</p> | A sneak peak into my work 👇 <br/> - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)<br/> - [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)<br/> - [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)<br/> - [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop) <br/>- [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)<br/><br/> ...etc | ✔ I simplify complex concepts<br/>  and strive to put them in a way<br/>  that a 10-20 year non-tech person can understand. <br/><br/>  Visit [My Twitter](https://twitter.com/0xumarkhatab) for latest content |
 | Confident reading and writing Solidity code | 3+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
