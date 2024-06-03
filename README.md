@@ -165,8 +165,6 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 ### Let's connect:
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/0xumarkhatab/) 🔗💼
-
 Connect with me on [Twitter](https://twitter.com/0xumarkhatab) 🐦
 
 Collaborate with me on [GitHub](https://github.com/0xumarkhatab) and build the future of blockchain together 🔨🚀
