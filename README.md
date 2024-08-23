@@ -60,15 +60,13 @@ Let's have a sneak-peak at what I've built in the public so far  :
 💠 [**Uniswap V2 Dex**](https://github.com/0xumarkhatab/UniswapV2Dex) - Create and Trade pairs by adding liquidity and swap methods using Uniswap V2 smart contracts.
 
 
-💠 [ **Multisig Transfer _ Role-based Access** ](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - Role-based Multi-Sig having admin and managers role for proposing transactions.
-
-💠 [**Multisig Transfer Transaction**](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - Smart contract to execute transactions based on approval of multiple people
+💠 [ **Multisig Transfer _ Role-based Access** ](https://github.com/0xumarkhatab/Multisig-CrossChain-Bridge-ETH-BSC) - Role-based Multi-Sig having admin and managers role for proposing transactions.
 
 💠 [**ETH - BSC Bridge**](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - A cross-chain bridge to trade Native tokens across Ethereum and Binance smart chain.
 
 ### Fullstack DApps
 
-💠 [**Non-Custodial Wallet**](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - Metamask-like wallet that can generate accounts, hold funds, and trade assets.
+💠 [**Non-Custodial Wallet**](https://github.com/0xumarkhatab/Non-Custodial-Wallet) - Metamask-like wallet that can generate accounts, hold funds, and trade assets.
 
 💠 [**Swap Stream**](https://swap-stream.vercel.app) - A Uniswap V2 model-based Constant Product AMM where you can swap, add liquidity, and remove liquidity.
 
