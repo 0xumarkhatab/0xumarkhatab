@@ -32,11 +32,11 @@ Following are my major skills
 
 ## Area of Expertise 🛠️
 
-🔺 NFTs 🔺 Stable-coins  🔺 DEXs 🔺 Cross Chain Bridge 🔺 Multsig Wallets
+🔺 Decentralized Exchanges 🔺 Cross Chain Bridges 🔺 NFTs 🔺 Stable-coins  🔺 Multsig Wallets
 
 🔺 Foundry  🔺 Hardhat  🔺 Truffle
 
-🔺 Ethereum  🔺 Polygon 🔺 Tron 🔺 BSC  🔺 XRPL 
+🔺 Ethereum  🔺 Polygon 🔺 Tron 🔺 BSC  🔺 XRPL  Solana
 
 🔺 Web3 integration using Ethers.js + Web3.js + Lucid.js + Mesh Js + Xrpl.js 
 
@@ -61,6 +61,8 @@ Let's have a sneak-peak at what I've built in the public so far  :
 💠 [**Treasure Hunt**](https://github.com/0xumarkhatab/Treasure-Hunt) - Treasure Hunt is an on-chain game where users can play, make the moves across the 10x10 board and Win ETH. The User who makes the move on the position where treasury is located , wins 90% of contract's funds .
 
 💠 [**Uniswap V1 Clone**](https://github.com/0xumarkhatab/Zuniswap-V1) - A Foundry-based Copy of Uniswap V1 with extensive test suite
+
+💠 [**Solana-SPL-Token-Launch-Dapp**](https://github.com/0xumarkhatab/Solana-SPL-Token-Launch-Dapp) - A solana based token launch decentralized App.
 
 💠 [**EVM Swap Bridge**](https://github.com/0xumarkhatab/AnyChainSwap) - Swap your tokens across Ethereum, Binance Smart Chain , Polygon and Tron with Multiple Signature functionality
 
