@@ -8,7 +8,7 @@
 
 
 # Introduction
-Hi PLanet Earth homie , I'm Umar - A Full-stack Blockchain Engineer for over 3 years.
+Hi planet Earth homie , I'm Umar - A Full-stack Blockchain Engineer for over 3 years.
 
 I have built 15+ scalable web3 protocols, and have secured other Web3 protocols upto 88B$ in TVL.
 
