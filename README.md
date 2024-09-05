@@ -10,23 +10,56 @@
 # Introduction
 Hi human, I'm Umar Khatab - A Full-stack Blockchain Engineer for over 3 years.
 
-Built 15+ scalable web3 protocols
+I have built 15+ scalable web3 protocols, and have secured other Web3 protocols upto 88B$ in TVL.
 
-Focused on Securing new Web3 Projects.
+My smart contract's security expertise are 1.5 years Old and still growing.
 
-1.5 Years Being a Security Researcher - Learning and Practicing 
-
-[YouTube channel- Blockchain Ninja ](https://www.youtube.com/@blockchain-ninja/videos)
- 
-
+See , I've different aspects to my personality when it comes to profesional life .
 
 # My Career Aspects:
+- Content I've Written
 - Senior Blockchain Engineer
 - Web3 Security Researcher
 
 
+## 1. About Me (As a Web3 Content Writer )
+Starting and building in Blockchain space seems daunting at first . That's why I simplify complex concepts and strive to put them in a way that a 10-20 year non-tech person can understand.
 
-## 1. About Me (As a Blockchain Engineer)
+Following is a glimpse of the type of content I deliver.
+#### Tutirials ( Markdown and Text )
+
+- [Uniswap V4 Hooks based Articles](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#articles)
+
+- [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)
+
+- [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)
+
+- [Solidity Multiple and Multilevel inheritance Combined](https://www.linkedin.com/posts/0xumarkhatab_if-it-was-easy-everyone-would-have-done-activity-7213461768860295169-IDve?utm_source=share&utm_medium=member_desktop)
+
+- [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)
+
+- [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop)
+
+#### Youtube Videos
+- [EVM Masterclass - Part 1](https://www.youtube.com/watch?v=Hc-yLUq44aI)
+- [What are Smart contracts ? And their lifecyle](https://www.youtube.com/watch?v=qDFpCTHsKZ4)
+
+More will come on my Youtube Channel [Blockchain Ninja](https://www.youtube.com/@blockchain-ninja)
+
+#### Short Courses
+
+1. [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)
+2. Simplified Cryptography
+   - [Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop)
+   - [Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop)
+   - [Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop)
+   - [Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop)
+
+3. [Clarity Language Short course - Stacks Bitcoin L2 ](https://github.com/0xumarkhatab/Simplified-Clarity-Mini-Course)
+
+Visit [My Twitter](https://twitter.com/0xumarkhatab) and [LinkedIn](https://www.linkedin.com/in/0xumarkhatab/) for latest content |
+
+## 2. About Me (As a Blockchain Engineer)
 As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences.
 Following are my major skills
 
@@ -58,6 +91,8 @@ Following are my major skills
 Let's have a sneak-peak at what I've built in the public so far  :
 
 ### Only Solidity-based ( Solidity on Steriods )
+💠 [**Uniswap V4 Hooks**](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#built-hooks) - Exploring and building Tons of Uniswap V4 based hooks and share my learnings on the way.
+
 💠 [**Treasure Hunt**](https://github.com/0xumarkhatab/Treasure-Hunt) - Treasure Hunt is an on-chain game where users can play, make the moves across the 10x10 board and Win ETH. The User who makes the move on the position where treasury is located , wins 90% of contract's funds .
 
 💠 [**Uniswap V1 Clone**](https://github.com/0xumarkhatab/Zuniswap-V1) - A Foundry-based Copy of Uniswap V1 with extensive test suite
@@ -132,7 +167,7 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 
 
-## 2. About Me ( As a Security Researcher)
+## 3. About Me ( As a Security Researcher)
 
 Let's see about the various skills I have :
 
@@ -140,7 +175,6 @@ Let's see about the various skills I have :
 | ------ | ---------------------------- |------------|
 | Bug hunter | 10+ Protocols ( April 2024 )<br/> 5+ Criticals, 6+ Highs, and 10+ Mediums <br/> Focusing on Cantina + Cod4rena <br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
 | CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
-|<p > Blockchain Content Writing <br/><br/> Giving back to the community</p> | A sneak peak into my work 👇 <br/> - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)<br/> - [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)<br/> - [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)<br/> - [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop) <br/> - [Simplified Cryptography - Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop) <br/>- [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)<br/><br/> ...etc | ✔ I simplify complex concepts<br/>  and strive to put them in a way<br/>  that a 10-20 year non-tech person can understand. <br/><br/>  Visit [My Twitter](https://twitter.com/0xumarkhatab) for latest content |
 | Confident reading and writing Solidity code | 3+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
 | ERC standards familiarity | 1. Erc 20 <br/> 2. Erc 165<br/> 3. Erc 721<br/> 4. Erc 777<br/> 5. Erc 1155<br/> 6. Erc 4626<br/> a lot more ... | continuous journey to learn | No particular reference |
 | Protocol Infrastructure <br/>| - POW, POS,PoX,PoB <br/> - Block construction. <br/> - TX propagation and mempool <br/> - Nodes and clients. <br/> - Familiar with other EVM blockchains<br/> | EVM chains <br/> - Ethereum <br/> - Tron <br/> - Polygon <br/> - Celo <br/> Non-EVM<br/> - XRP <br/> - Cardano |
