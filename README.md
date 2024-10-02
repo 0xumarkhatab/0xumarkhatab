@@ -37,7 +37,7 @@ Following is a glimpse of the type of content I deliver.
 
 - [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)
 
-- [Solidity Multiple and Multilevel inheritance Combined](https://www.linkedin.com/posts/0xumarkhatab_if-it-was-easy-everyone-would-have-done-activity-7213461768860295169-IDve?utm_source=share&utm_medium=member_desktop)
+- [Solidity Multiple and Multilevel inheritance Combined](https://www.linkedin.com/posts/0xumarkhatab_alpha-solidity-multiple-and-multilevel-activity-7210236988254285824-NEAG?utm_source=share&utm_medium=member_desktop)
 
 - [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)
 
