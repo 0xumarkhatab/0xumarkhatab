@@ -176,7 +176,7 @@ Let's see about the various skills I have :
 
 |  Skill Title  | Experience / Comments| Explanation / Reference |
 | ------ | ---------------------------- |------------|
-| Bug hunter | 10+ Protocols ( April 2024 )<br/> 5+ Criticals, 6+ Highs, and 10+ Mediums <br/> Focusing on Cantina + Cod4rena <br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
+| Bug hunter | 10+ Protocols ( April 2024 )<br/>  6+ Highs, and 10+ Mediums <br/> Focusing on Cantina + Cod4rena <br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
 | CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
 | Confident reading and writing Solidity code | 3+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
 | ERC standards familiarity | 1. Erc 20 <br/> 2. Erc 165<br/> 3. Erc 721<br/> 4. Erc 777<br/> 5. Erc 1155<br/> 6. Erc 4626<br/> a lot more ... | continuous journey to learn | No particular reference |
