@@ -31,6 +31,7 @@ Starting and building in Blockchain space seems daunting at first . That's why I
 Following is a glimpse of the type of content I deliver.
 #### Tutirials ( Markdown and Text )
 
+- [Designing MEV-Resistant DEXes: A Technical Deep Dive](https://github.com/0xumarkhatab/Blockchain-Writings/blob/main/Designing%20MEV-Resistant%20DEXes%3A%20A%20Technical%20Deep%C2%A0Dive.md)
 - [Uniswap V4 Hooks based Articles](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#articles)
 
 - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)
