@@ -20,50 +20,12 @@ My smart contract's security expertise are 1.5 years Old and still growing.
 See , I've different aspects to my personality when it comes to profesional life .
 
 # My Career Aspects:
-- Content I've Written
 - Senior Blockchain Engineer
 - Web3 Security Researcher
+- Content I've Written
 
 
-## 1. About Me (As a Web3 Content Writer )
-Starting and building in Blockchain space seems daunting at first . That's why I simplify complex concepts and strive to put them in a way that a 10-20 year non-tech person can understand.
-
-Following is a glimpse of the type of content I deliver.
-#### Tutirials ( Markdown and Text )
-
-- [Designing MEV-Resistant DEXes: A Technical Deep Dive](https://github.com/0xumarkhatab/Blockchain-Writings/blob/main/Designing%20MEV-Resistant%20DEXes%3A%20A%20Technical%20Deep%C2%A0Dive.md)
-- [Uniswap V4 Hooks based Articles](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#articles)
-
-- [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)
-
-- [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)
-
-- [Solidity Multiple and Multilevel inheritance Combined](https://www.linkedin.com/posts/0xumarkhatab_alpha-solidity-multiple-and-multilevel-activity-7210236988254285824-NEAG?utm_source=share&utm_medium=member_desktop)
-
-- [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)
-
-- [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop)
-
-#### Youtube Videos
-- [EVM Masterclass - Part 1](https://www.youtube.com/watch?v=Hc-yLUq44aI)
-- [What are Smart contracts ? And their lifecyle](https://www.youtube.com/watch?v=qDFpCTHsKZ4)
-
-More will come on my Youtube Channel [Blockchain Ninja](https://www.youtube.com/@blockchain-ninja)
-
-#### Short Courses
-
-1. [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)
-2. Simplified Cryptography
-   - [Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop)
-   - [Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop)
-   - [Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop)
-   - [Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop)
-
-3. [Clarity Language Short course - Stacks Bitcoin L2 ](https://github.com/0xumarkhatab/Simplified-Clarity-Mini-Course)
-
-Visit [My Twitter](https://twitter.com/0xumarkhatab) and [LinkedIn](https://www.linkedin.com/in/0xumarkhatab/) for latest content |
-
-## 2. About Me (As a Blockchain Engineer)
+## 1. About Me (As a Blockchain Engineer)
 As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences.
 Following are my major skills
 
@@ -171,7 +133,7 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 
 
-## 3. About Me ( As a Security Researcher)
+## 2. About Me ( As a Security Researcher)
 
 Let's see about the various skills I have :
 
@@ -195,14 +157,44 @@ Let's see about the various skills I have :
 | DeFi - A Deep Dive - Coursera | 100% | Learned about following 👇 <br/><br/> 🐱‍🏍 Concepts <br/><br/>&nbsp; - AMMs <br/>&nbsp; - Lending/Borrow <br/>&nbsp; - Collateral <br/>&nbsp; - staking <br/>&nbsp; ..etc <br/><br/> 💪 Protocols <br/>&nbsp; - Uniswap <br/>&nbsp; - Aave <br/>&nbsp; - Compound <br/>&nbsp; - DyDx <br/>&nbsp; ..etc |
 | Bachelor in Computer Science | 100% | Got hands-on experience with 👇<br/><br/>1. Web2 Information Security<br/>2. X86 Processor Architecture Assembly interpreter <br/>3. Data Structures and Algorithms <br/>4. Software Design <br/>5. Software Engineering <br/>6. Artificial Intelligence <br/>7. Operating Systems<br/>8. Professional Practices <br/>9. Psychology of Society <br/> 10. Communication & Presentation skills<br/><br/>...and so much more.|
 
-### Facts About me 🚀💼
+## 3. About Me (As a Web3 Content Writer )
+Starting and building in Blockchain space seems daunting at first . That's why I simplify complex concepts and strive to put them in a way that a 10-20 year non-tech person can understand.
 
+Following is a glimpse of the type of content I deliver.
+#### Tutorials ( Markdown and Text )
 
-- Young startup founder - Check out [**RentWeb3**](https://github.com/rentweb3)
+- [Designing MEV-Resistant DEXes: A Technical Deep Dive](https://github.com/0xumarkhatab/Blockchain-Writings/blob/main/Designing%20MEV-Resistant%20DEXes%3A%20A%20Technical%20Deep%C2%A0Dive.md)
+- [Uniswap V4 Hooks based Articles](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#articles)
 
-- Helped 100 people start learning blockchain technology 
+- [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)
 
-- Learnweb3Dao Grand Master
+- [Ethereum Accounts Formation](https://twitter.com/0xumarkhatab/status/1667404076785741824?s=20)
+
+- [Solidity Multiple and Multilevel inheritance Combined](https://www.linkedin.com/posts/0xumarkhatab_alpha-solidity-multiple-and-multilevel-activity-7210236988254285824-NEAG?utm_source=share&utm_medium=member_desktop)
+
+- [Bonding Curve DeFi Dapp Tutorial](https://twitter.com/0xumarkhatab/status/1605507894757060609?s=20)
+
+- [Gas Optimization](https://www.linkedin.com/posts/0xumarkhatab_solidity-gas-optimization-1-use-activity-7033709641654018048-hyfL?utm_source=share&utm_medium=member_desktop)
+
+#### Youtube Videos
+- [EVM Masterclass - Part 1](https://www.youtube.com/watch?v=Hc-yLUq44aI)
+- [What are Smart contracts ? And their lifecyle](https://www.youtube.com/watch?v=qDFpCTHsKZ4)
+
+More will come on my Youtube Channel [Blockchain Ninja](https://www.youtube.com/@blockchain-ninja)
+
+#### Short Courses
+
+1. [Blockchain Fundamentals Course 🎯](https://www.linkedin.com/feed/update/urn:li:activity:6955739112284811264/)
+2. Simplified Cryptography
+   - [Part 1](https://www.linkedin.com/posts/0xumarkhatab_cryptography-course-part1-activity-6959094670589071360-xnU3?utm_source=share&utm_medium=member_desktop)
+   - [Part 2](https://www.linkedin.com/posts/0xumarkhatab_chapter-2-cryptography-course-activity-6959489579825442816-61AL?utm_source=share&utm_medium=member_desktop)
+   - [Part 3](https://www.linkedin.com/posts/0xumarkhatab_blockchain-cryptography-mathematics-activity-6959773706705338368-vw23?utm_source=share&utm_medium=member_desktop)
+   - [Part 4](https://www.linkedin.com/posts/0xumarkhatab_chapter-3-mastering-cryptography-activity-6960202563648409600-F4qF?utm_source=share&utm_medium=member_desktop)
+
+3. [Clarity Language Short course - Stacks Bitcoin L2 ](https://github.com/0xumarkhatab/Simplified-Clarity-Mini-Course)
+
+Visit [My Twitter](https://twitter.com/0xumarkhatab) and [LinkedIn](https://www.linkedin.com/in/0xumarkhatab/) for latest content |
+
 
 ### Education 🧠📚🚀
 
