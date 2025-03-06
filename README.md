@@ -48,7 +48,7 @@ Following are my major skills
 Let's have a sneak-peak at what I've built in the public so far  :
 
 ### Only Solidity-based ( Solidity on Steriods )
-💠 [**Multichain Lending/Borrowing Protocol: Riftlend**](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#built-hooks) - Built Multichain Lending/Borrowin protocol to give users a stress free lending experience with unified interest rates across all chains.
+💠 [**Multichain Lending/Borrowing Protocol: Riftlend**](https://github.com/RiftLend/contracts-v1/tree/116f88c4400f482127ac6a8485eb4fdbce4b2bd7) - Built Multichain Lending/Borrowin protocol to give users a stress free lending experience with unified interest rates across all chains.
 
 💠 [**Uniswap V4 Hooks**](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#built-hooks) - Exploring and building Tons of Uniswap V4 based hooks and share my learnings on the way.
 
