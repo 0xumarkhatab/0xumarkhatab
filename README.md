@@ -47,29 +47,21 @@ Following are my major skills
 ## Personal Projects 💻🔧
 Let's have a sneak-peak at what I've built in the public so far  :
 
-### Only Solidity-based ( Solidity on Steriods )
 💠 [**Multichain Lending/Borrowing Protocol: Riftlend**](https://github.com/RiftLend/contracts-v1/tree/116f88c4400f482127ac6a8485eb4fdbce4b2bd7) - Built Multichain Lending/Borrowin protocol to give users a stress free lending experience with unified interest rates across all chains.
 
-💠 [**Uniswap V4 Hooks**](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#built-hooks) - Exploring and building Tons of Uniswap V4 based hooks and share my learnings on the way.
-
-💠 [**Treasure Hunt**](https://github.com/0xumarkhatab/Treasure-Hunt) - Treasure Hunt is an on-chain game where users can play, make the moves across the 10x10 board and Win ETH. The User who makes the move on the position where treasury is located , wins 90% of contract's funds .
-
-💠 [**Uniswap V1 Clone**](https://github.com/0xumarkhatab/Zuniswap-V1) - A Foundry-based Copy of Uniswap V1 with extensive test suite
-
-💠 [**Solana-SPL-Token-Launch-Dapp**](https://github.com/0xumarkhatab/Solana-SPL-Token-Launch-Dapp) - A solana based token launch decentralized App.
+💠 [**Non-Custodial Wallet**](https://github.com/0xumarkhatab/Non-Custodial-Wallet) - Metamask-like wallet that can generate accounts, hold funds, and trade assets.
 
 💠 [**EVM Swap Bridge**](https://github.com/0xumarkhatab/AnyChainSwap) - Swap your tokens across Ethereum, Binance Smart Chain , Polygon and Tron with Multiple Signature functionality
-
-💠 [**Uniswap V2 Based Dex**](https://github.com/0xumarkhatab/UniswapV2Dex) - Create and Trade pairs by adding liquidity and swap methods using Uniswap V2 smart contracts.
-
 
 💠 [ **Multisig Transfer _ Role-based Access** ](https://github.com/0xumarkhatab/Multisig-CrossChain-Bridge-ETH-BSC) - Role-based Multi-Sig having admin and managers role for proposing transactions.
 
 💠 [**ETH - BSC Bridge**](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - A cross-chain bridge to trade Native tokens across Ethereum and Binance smart chain.
 
-### Fullstack DApps
+💠 [**Treasure Hunt**](https://github.com/0xumarkhatab/Treasure-Hunt) - Treasure Hunt is an on-chain game where users can play, make the moves across the 10x10 board and Win ETH. The User who makes the move on the position where treasury is located , wins 90% of contract's funds .
 
-💠 [**Non-Custodial Wallet**](https://github.com/0xumarkhatab/Non-Custodial-Wallet) - Metamask-like wallet that can generate accounts, hold funds, and trade assets.
+💠 [**Uniswap V2 Based Dex**](https://github.com/0xumarkhatab/UniswapV2Dex) - Create and Trade pairs by adding liquidity and swap methods using Uniswap V2 smart contracts.
+
+💠 [**Uniswap V1 Clone**](https://github.com/0xumarkhatab/Zuniswap-V1) - A Foundry-based Copy of Uniswap V1 with extensive test suite
 
 💠 [**Swap Stream**](https://swap-stream.vercel.app) - A Uniswap V2 model-based Constant Product AMM where you can swap, add liquidity, and remove liquidity.
 
