@@ -5,10 +5,11 @@
 </p>
 </div>
 
-Hey Human , thanks for stopping by my profile.
-I'm a Full-stack Blockchain Engineer for over 4 years.
+Hey human, thank you for coming here. Welcome to my profile highlights !
 
-I have built 15+ scalable web3 protocols, and have secured other Web3 protocols upto 88 Billion $ in Total Value locked using my whitehat security expertise.
+I'm a Full-stack Blockchain Engineer. Having 4+ years of Solid experience in Blockchain development, I’m comfortable with researching and building scalable & secure blockchain protocols across DeFi, NFTs, and Web3 in general. I have written & deployed 160+ smart contracts spanning 20k+ lines of solidity code across EVM chains.
+
+I design and implement secure, scalable solutions that empower decentralized finance. Let’s see my experience below.
 
 # My Career Aspects:
 - Senior Blockchain Engineer
@@ -35,33 +36,28 @@ Following are my major skills
 🔺 Listening and understanding 🔺 Team work
 
 ### Languages
-☢ Solidity    ☢ Python     ☢ Javascript 
 
-☢ Yul        ☢ C++         ☢ Rust
+☢ Solidity  ☢ Yul  ☢ Javascript   ☢ Python  ☢ Rust  ☢ C++
 
-☢ Php       ☢ Haskell ( Cardano blockchain ) 
-
-☢ Clarity ( Stacks blockchain )
-
-
-## Personal Projects 💻🔧
+## Projects 💻
 Let's have a sneak-peak at what I've built in the public so far  :
 
 💠 [**Multichain Lending/Borrowing Protocol: Riftlend**](https://github.com/RiftLend/contracts-v1/tree/116f88c4400f482127ac6a8485eb4fdbce4b2bd7) - Built Multichain Lending/Borrowin protocol to give users a stress free lending experience with unified interest rates across all chains.
 
+💠 [**Treasure Hunt**](https://github.com/0xumarkhatab/Treasure-Hunt) - Treasure Hunt is an on-chain game where users can play, make the moves across the 10x10 board and Win ETH. The User who makes the move on the position where treasury is located , wins 90% of contract's funds .
+
 💠 [**Non-Custodial Wallet**](https://github.com/0xumarkhatab/Non-Custodial-Wallet) - Metamask-like wallet that can generate accounts, hold funds, and trade assets.
+
+💠 [**Multisig Cross chain Swap Bridge**](https://github.com/0xumarkhatab/MultisigCrossChainBridge) -  Decentralised protocol in solidity where you can burn Tokens on one EVM chain and mint on another chain by using multiple signatures. Currently, it contains 5 tokens across 3 different chains Totalling up to 500 Lines of solidity code.
 
 💠 [**EVM Swap Bridge**](https://github.com/0xumarkhatab/AnyChainSwap) - Swap your tokens across Ethereum, Binance Smart Chain , Polygon and Tron with Multiple Signature functionality
 
-💠 [ **Multisig Transfer _ Role-based Access** ](https://github.com/0xumarkhatab/Multisig-CrossChain-Bridge-ETH-BSC) - Role-based Multi-Sig having admin and managers role for proposing transactions.
-
 💠 [**ETH - BSC Bridge**](https://github.com/0xumarkhatab/ETH-To-BSC-Bridge) - A cross-chain bridge to trade Native tokens across Ethereum and Binance smart chain.
-
-💠 [**Treasure Hunt**](https://github.com/0xumarkhatab/Treasure-Hunt) - Treasure Hunt is an on-chain game where users can play, make the moves across the 10x10 board and Win ETH. The User who makes the move on the position where treasury is located , wins 90% of contract's funds .
 
 💠 [**Uniswap V2 Based Dex**](https://github.com/0xumarkhatab/UniswapV2Dex) - Create and Trade pairs by adding liquidity and swap methods using Uniswap V2 smart contracts.
 
 💠 [**Uniswap V1 Clone**](https://github.com/0xumarkhatab/Zuniswap-V1) - A Foundry-based Copy of Uniswap V1 with extensive test suite
+
 
 💠 [**Swap Stream**](https://swap-stream.vercel.app) - A Uniswap V2 model-based Constant Product AMM where you can swap, add liquidity, and remove liquidity.
 
