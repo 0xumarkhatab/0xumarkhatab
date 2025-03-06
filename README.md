@@ -5,19 +5,10 @@
 </p>
 </div>
 
+Hey Human , thanks for stopping by my profile.
+I'm a Full-stack Blockchain Engineer for over 4 years.
 
-
-# Introduction
-Hi there , I'm Umar and I live on Planet Earth .
-It's good to see you .
-
-Professionally , i'm a Full-stack Blockchain Engineer for over 3 years.
-
-I have built 15+ scalable web3 protocols, and have secured other Web3 protocols upto 88 Billion $ in Total Value locked.
-
-My smart contract's security expertise are 1.5 years Old and still growing.
-
-See , I've different aspects to my personality when it comes to profesional life .
+I have built 15+ scalable web3 protocols, and have secured other Web3 protocols upto 88 Billion $ in Total Value locked using my whitehat security expertise.
 
 # My Career Aspects:
 - Senior Blockchain Engineer
@@ -25,17 +16,17 @@ See , I've different aspects to my personality when it comes to profesional life
 - Content I've Written
 
 
-## 1. About Me (As a Blockchain Engineer)
+## 1. About Me (As a Senior Blockchain Engineer)
 As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences.
 Following are my major skills
 
 ## Area of Expertise 🛠️
 
-🔺 Decentralized Exchanges 🔺 Cross Chain Bridges 🔺 NFTs 🔺 Stable-coins  🔺 Multsig Wallets
+🔺 Multichain Lending/Borrowing 🔺 Decentralized Exchanges 🔺 Cross Chain Bridges 🔺 NFTs 🔺 Stable-coins  🔺 Multsig Wallets
 
 🔺 Foundry  🔺 Hardhat  🔺 Truffle
 
-🔺 Ethereum  🔺 Polygon 🔺 Tron 🔺 BSC  🔺 XRPL  Solana
+🔺 Ethereum  🔺 Polygon 🔺 Tron 🔺 BSC  🔺 XRPL 🔺 Solana
 
 🔺 Web3 integration using Ethers.js + Web3.js + Lucid.js + Mesh Js + Xrpl.js 
 
@@ -57,6 +48,8 @@ Following are my major skills
 Let's have a sneak-peak at what I've built in the public so far  :
 
 ### Only Solidity-based ( Solidity on Steriods )
+💠 [**Multichain Lending/Borrowing Protocol: Riftlend**](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#built-hooks) - Built Multichain Lending/Borrowin protocol to give users a stress free lending experience with unified interest rates across all chains.
+
 💠 [**Uniswap V4 Hooks**](https://github.com/0xumarkhatab/Uniswap-V4-Hooks?tab=readme-ov-file#built-hooks) - Exploring and building Tons of Uniswap V4 based hooks and share my learnings on the way.
 
 💠 [**Treasure Hunt**](https://github.com/0xumarkhatab/Treasure-Hunt) - Treasure Hunt is an on-chain game where users can play, make the moves across the 10x10 board and Win ETH. The User who makes the move on the position where treasury is located , wins 90% of contract's funds .
