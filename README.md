@@ -14,7 +14,7 @@ I design and implement secure, scalable solutions that empower decentralized fin
 # My Career Aspects:
 - Senior Blockchain Engineer
 - Web3 Security Researcher
-- Content I've Written
+- DeFi Researcher/Writer
 
 
 ## 1. About Me (As a Senior Blockchain Engineer)
@@ -138,7 +138,7 @@ Let's see about the various skills I have :
 | DeFi - A Deep Dive - Coursera | 100% | Learned about following 👇 <br/><br/> 🐱‍🏍 Concepts <br/><br/>&nbsp; - AMMs <br/>&nbsp; - Lending/Borrow <br/>&nbsp; - Collateral <br/>&nbsp; - staking <br/>&nbsp; ..etc <br/><br/> 💪 Protocols <br/>&nbsp; - Uniswap <br/>&nbsp; - Aave <br/>&nbsp; - Compound <br/>&nbsp; - DyDx <br/>&nbsp; ..etc |
 | Bachelor in Computer Science | 100% | Got hands-on experience with 👇<br/><br/>1. Web2 Information Security<br/>2. X86 Processor Architecture Assembly interpreter <br/>3. Data Structures and Algorithms <br/>4. Software Design <br/>5. Software Engineering <br/>6. Artificial Intelligence <br/>7. Operating Systems<br/>8. Professional Practices <br/>9. Psychology of Society <br/> 10. Communication & Presentation skills<br/><br/>...and so much more.|
 
-## 3. About Me (As a Web3 Content Writer )
+## 3. About Me (As a DeFi Researcher/Writer )
 Starting and building in Blockchain space seems daunting at first . That's why I simplify complex concepts and strive to put them in a way that a 10-20 year non-tech person can understand.
 
 Following is a glimpse of the type of content I deliver.
