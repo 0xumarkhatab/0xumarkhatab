@@ -7,7 +7,7 @@
 
 Hey human, thank you for coming here. Welcome to my profile highlights !
 
-I'm a Cs-Grad ,Full-stack Blockchain Engineer. Having 4+ years of Solid experience in Blockchain development, I’m comfortable with researching and building scalable & secure blockchain protocols across DeFi, NFTs, and Web3 in general. I have written & deployed 160+ smart contracts spanning 20k+ lines of solidity code across EVM chains.
+I'm a Cs-Grad ,Full-stack Blockchain Engineer. Having 3+ years of Solid experience in Blockchain development, I’m comfortable with researching and building scalable & secure blockchain protocols across DeFi, NFTs, and Web3 in general. I have written & deployed 160+ smart contracts spanning 20k+ lines of solidity code across EVM chains.
 
 I design and implement secure, scalable solutions that empower decentralized finance. Let’s see my experience below.
 
