@@ -130,9 +130,11 @@ Let's see about the various skills I have :
 Starting and building in Blockchain space seems daunting at first . That's why I simplify complex concepts and strive to put them in a way that a 10-20 year non-tech person can understand.
 
 Following is a glimpse of the type of content I deliver.
-#### Tutorials ( Markdown and Text )
+
+- [ Exploring InstaDapp's Fluid at deep code level -  And Answering Critical questions](https://github.com/0xumarkhatab/InstaDapp-Fluid-Protocol-Research)
 
 - [Designing MEV-Resistant DEXes: A Technical Deep Dive](https://github.com/0xumarkhatab/Blockchain-Writings/blob/main/Designing%20MEV-Resistant%20DEXes%3A%20A%20Technical%20Deep%C2%A0Dive.md)
+
 - [Build your First Fully on-chain Uniswap V4 hook line-by-line with assembly level explanation ( A Security Researcher Perspective )](https://github.com/0xumarkhatab/Build-UniswapV4-Hooks/blob/master/Build-Your-Hook.md)
 
 - [Wallets at a Bytecode level](https://twitter.com/0xumarkhatab/status/1667434669359656960?s=20)
