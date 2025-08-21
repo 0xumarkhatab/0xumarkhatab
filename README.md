@@ -131,6 +131,8 @@ Starting and building in Blockchain space seems daunting at first . That's why I
 
 Following is a glimpse of the type of content I deliver.
 
+- [Birth of a Smart contract - EVM Bytecode edition](https://x.com/0xumarkhatab/status/1958429309888077853)
+
 - [ Exploring InstaDapp's Fluid at deep code level -  And Answering Critical questions](https://github.com/0xumarkhatab/InstaDapp-Fluid-Protocol-Research)
 
 - [Designing MEV-Resistant DEXes: A Technical Deep Dive](https://github.com/0xumarkhatab/Blockchain-Writings/blob/main/Designing%20MEV-Resistant%20DEXes%3A%20A%20Technical%20Deep%C2%A0Dive.md)
