@@ -101,37 +101,14 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 🛡 [**CryptoPunk**](https://github.com/0xumarkhatab/CryptoPunk) - A juicy front end for an NFTs exchange platform.
 
-
-## 2. About Me ( As a Security Researcher)
-
-Let's see about the various skills I have :
-
-|  Skill Title  | Experience / Comments| Explanation / Reference |
-| ------ | ---------------------------- |------------|
-| Bug hunter | 10+ Protocols <br/>  4+ highs , 5+ Mediums <br/> Focusing on Cantina + Cod4rena <br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
-| CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
-| Confident reading and writing Solidity code | 3+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
-| ERC standards familiarity | 1. Erc 20 <br/> 2. Erc 165<br/> 3. Erc 721<br/> 4. Erc 777<br/> 5. Erc 1155<br/> 6. Erc 4626<br/> a lot more ... | continuous journey to learn | No particular reference |
-| Protocol Infrastructure <br/>| - POW, POS,PoX,PoB <br/> - Block construction. <br/> - TX propagation and mempool <br/> - Nodes and clients. <br/> - Familiar with other EVM blockchains<br/> | EVM chains <br/> - Ethereum <br/> - Tron <br/> - Polygon <br/> - Celo <br/> Non-EVM<br/> - XRP <br/> - Cardano |
-| Development And Testing Frameworks | - Ethers & Web3 Js<br/> - Foundry <br/> - Hardhat <br/> - Brownie( learning now) <br/> - Truffle <br/> - Remix IDE | Foundry is becoming the most beloved framework of mine |
-
-## Courses and stuff ( Bottom UP )
-
-|  Title | Completion | Comments |
-| -------- | ---------- |------------|
-| Secureum Bootcamp - Epoch ∞ | in-progress |  - Scored 4/8 in Race 19   <br/> - Visited past 18 races. Check my [Races Write-Up](https://github.com/0xumarkhatab/Secureum-Races) |
-| Secureum Bootcamp - Epoch0 | 100% | Got started with in-depth smart contracts security  |
-| Mastering Ethereum Book | 100% | Deep dive into EVM  |
-| Ethereum yellow & whitepaper | 100% | Deep dive into Ethereum protocol infrastructure  |
-| DeFi - A Deep Dive - Coursera | 100% | Learned about following 👇 <br/><br/> 🐱‍🏍 Concepts <br/><br/>&nbsp; - AMMs <br/>&nbsp; - Lending/Borrow <br/>&nbsp; - Collateral <br/>&nbsp; - staking <br/>&nbsp; ..etc <br/><br/> 💪 Protocols <br/>&nbsp; - Uniswap <br/>&nbsp; - Aave <br/>&nbsp; - Compound <br/>&nbsp; - DyDx <br/>&nbsp; ..etc |
-| Bachelor in Computer Science | 100% | Got hands-on experience with 👇<br/><br/>1. Web2 Information Security<br/>2. X86 Processor Architecture Assembly interpreter <br/>3. Data Structures and Algorithms <br/>4. Software Design <br/>5. Software Engineering <br/>6. Artificial Intelligence <br/>7. Operating Systems<br/>8. Professional Practices <br/>9. Psychology of Society <br/> 10. Communication & Presentation skills<br/><br/>...and so much more.|
-
-## 3. About Me (As a DeFi Researcher/Writer )
+## 2. About Me (As a DeFi Researcher/Writer )
 Starting and building in Blockchain space seems daunting at first . That's why I simplify complex concepts and strive to put them in a way that a 10-20 year non-tech person can understand.
 
 Following is a glimpse of the type of content I deliver.
 
-- [Birth of a Smart contract - EVM Bytecode edition](https://x.com/0xumarkhatab/status/1958429309888077853)
+- Birth of a Smart contract - EVM Bytecode edition
+    - [X_Thread](https://x.com/0xumarkhatab/status/1958429309888077853)
+    - [LinkedIn_Post](https://www.linkedin.com/posts/0xumarkhatab_the-birth-of-a-smart-contract-evm-bytecode-activity-7364198239790632960--4Sc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlZqrMBBIk2HfRo0p6P2j_2fZbQsU4fkRE)
 
 - [ Exploring InstaDapp's Fluid at deep code level -  And Answering Critical questions](https://github.com/0xumarkhatab/InstaDapp-Fluid-Protocol-Research)
 
@@ -167,6 +144,31 @@ More will come on my Youtube Channel [Blockchain Ninja](https://www.youtube.com/
 3. [Clarity Language Short course - Stacks Bitcoin L2 ](https://github.com/0xumarkhatab/Simplified-Clarity-Mini-Course)
 
 Visit [My Twitter](https://twitter.com/0xumarkhatab) and [LinkedIn](https://www.linkedin.com/in/0xumarkhatab/) for latest content |
+
+## 3. About Me ( As a Security Researcher)
+
+Let's see about the various skills I have :
+
+|  Skill Title  | Experience / Comments| Explanation / Reference |
+| ------ | ---------------------------- |------------|
+| Bug hunter | 10+ Protocols <br/>  4+ highs , 5+ Mediums <br/> Focusing on Cantina + Cod4rena <br/> Check my journey 👉  | [My Audits ](https://github.com/0xumarkhatab/0xumarkhatab-audits) |
+| CTF Cracker | - Secureum RACE-24 Top 20 <br/> - AMAZE X DSS 2023 - Top 8<br/> - Etherenaut <br/> - DamnVulnerable DeFi | [My CTFs Journey ](https://github.com/0xumarkhatab/myCTFs) |
+| Confident reading and writing Solidity code | 3+ years |[My Solidity Work ](https://github.com/0xumarkhatab/mySolidiityWork)
+| ERC standards familiarity | 1. Erc 20 <br/> 2. Erc 165<br/> 3. Erc 721<br/> 4. Erc 777<br/> 5. Erc 1155<br/> 6. Erc 4626<br/> a lot more ... | continuous journey to learn | No particular reference |
+| Protocol Infrastructure <br/>| - POW, POS,PoX,PoB <br/> - Block construction. <br/> - TX propagation and mempool <br/> - Nodes and clients. <br/> - Familiar with other EVM blockchains<br/> | EVM chains <br/> - Ethereum <br/> - Tron <br/> - Polygon <br/> - Celo <br/> Non-EVM<br/> - XRP <br/> - Cardano |
+| Development And Testing Frameworks | - Ethers & Web3 Js<br/> - Foundry <br/> - Hardhat <br/> - Brownie( learning now) <br/> - Truffle <br/> - Remix IDE | Foundry is becoming the most beloved framework of mine |
+
+## Courses and stuff ( Bottom UP )
+
+|  Title | Completion | Comments |
+| -------- | ---------- |------------|
+| Secureum Bootcamp - Epoch ∞ | in-progress |  - Scored 4/8 in Race 19   <br/> - Visited past 18 races. Check my [Races Write-Up](https://github.com/0xumarkhatab/Secureum-Races) |
+| Secureum Bootcamp - Epoch0 | 100% | Got started with in-depth smart contracts security  |
+| Mastering Ethereum Book | 100% | Deep dive into EVM  |
+| Ethereum yellow & whitepaper | 100% | Deep dive into Ethereum protocol infrastructure  |
+| DeFi - A Deep Dive - Coursera | 100% | Learned about following 👇 <br/><br/> 🐱‍🏍 Concepts <br/><br/>&nbsp; - AMMs <br/>&nbsp; - Lending/Borrow <br/>&nbsp; - Collateral <br/>&nbsp; - staking <br/>&nbsp; ..etc <br/><br/> 💪 Protocols <br/>&nbsp; - Uniswap <br/>&nbsp; - Aave <br/>&nbsp; - Compound <br/>&nbsp; - DyDx <br/>&nbsp; ..etc |
+| Bachelor in Computer Science | 100% | Got hands-on experience with 👇<br/><br/>1. Web2 Information Security<br/>2. X86 Processor Architecture Assembly interpreter <br/>3. Data Structures and Algorithms <br/>4. Software Design <br/>5. Software Engineering <br/>6. Artificial Intelligence <br/>7. Operating Systems<br/>8. Professional Practices <br/>9. Psychology of Society <br/> 10. Communication & Presentation skills<br/><br/>...and so much more.|
+
 
 
 ### Education 🧠📚🚀
