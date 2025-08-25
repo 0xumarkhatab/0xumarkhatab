@@ -106,6 +106,8 @@ Starting and building in Blockchain space seems daunting at first . That's why I
 
 Following is a glimpse of the type of content I deliver.
 
+- [How EVM's DUP opcode work ?](https://x.com/0xumarkhatab/status/1959811486978838540)
+
 - Birth of a Smart contract - EVM Bytecode edition
     - [X_Thread](https://x.com/0xumarkhatab/status/1958429309888077853)
     - [LinkedIn_Post](https://www.linkedin.com/posts/0xumarkhatab_the-birth-of-a-smart-contract-evm-bytecode-activity-7364198239790632960--4Sc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlZqrMBBIk2HfRo0p6P2j_2fZbQsU4fkRE)
