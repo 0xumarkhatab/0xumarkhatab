@@ -16,7 +16,6 @@ I design and implement secure, scalable solutions that empower decentralized fin
 - Web3 Security Researcher
 - DeFi Researcher/Writer
 
-
 ## 1. About Me (As a Senior Blockchain Engineer)
 As a Blockchain Engineer, I specialize in building protocols with the main focus on scalability, low cost, and better User experiences.
 Following are my major skills
