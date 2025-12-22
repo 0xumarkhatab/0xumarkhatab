@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Optional: keep your banner image (or replace with a new one) -->
-  <img src="https://github.com/0xumarkhatab/0xumarkhatab/assets/71306738/dc2bbc35-971b-41a8-a5dc-997ee18a8ab2" alt="banner" />
+  <img src="https://github.com/user-attachments/assets/cc7809b3-651a-40bd-a7c0-453b80b971f6" alt="banner" />
 </div>
 
 ## 👋 Hey, I'm Umar Khatab
@@ -17,7 +16,7 @@ I build and break smart contracts (in a good way).
 ---
 
 ## 🔥 What I’m focused on right now
-For the last ~6 months, I’ve been the Founding EVM Engineer at **ViFi Labs** (FX onchain): https://x.com/ViFi_Labs
+For the last ~6 months, I’ve been the Founding EVM Engineer at [**ViFi Labs** (FX onchain)](https://x.com/ViFi_Labs)
 I worked end-to-end — **Python simulations → Solidity (Foundry) implementation**, with a strong focus on:
 - **gas-efficient + modular contract design**
 - **unit / integration / staging tests** (coverage **>97%**)
@@ -46,7 +45,7 @@ Launch target: **2026**
 - [**Multisig Cross chain Swap Bridge**](https://github.com/0xumarkhatab/MultisigCrossChainBridge) -  Decentralised protocol in solidity where you can burn Tokens on one EVM chain and mint on another chain by using multiple signatures. Currently, it contains 5 tokens across 3 different chains Totalling up to 500 Lines of solidity code.
 
 - **MEV / DEX research & builds**  
-  https://github.com/0xumarkhatab/Blockchain-Writings/blob/main/Designing%20MEV-Resistant%20DEXes%3A%20A%20Technical%20Deep%C2%A0Dive.md
+  [Link](https://github.com/0xumarkhatab/Blockchain-Writings/blob/main/Designing-MEV-Resistant-DEXes-A-Technical-Deep-Dive.md)
 
 ---
 
@@ -54,12 +53,12 @@ Launch target: **2026**
 I started learning smart contract security on my own and kept showing up in contests.
 
 - **ZeroLend (High): Governance broken for whitelisted users**  
-  https://reports.immunefi.com/zerolend/29145-sc-high-zerolendtoken-is-bricked-to-use-for-whitelisted...
+  [Link](https://reports.immunefi.com/zerolend/29145-sc-high-zerolendtoken-is-bricked-to-use-for-whitelisted...)
 
 - **ZeroLend (Medium): Unlimited minting of governance NFTs**  
-  https://reports.immunefi.com/zerolend/29130-sc-medium-unlimited-minting-of-vestedzeronft
+  [Link](https://reports.immunefi.com/zerolend/29130-sc-medium-unlimited-minting-of-vestedzeronft)
 
-Audit journey repo: https://github.com/0xumarkhatab/0xumarkhatab-audits
+Audit journey repo: [Link](https://github.com/0xumarkhatab/0xumarkhatab-audits)
 
 ---
 
@@ -67,19 +66,14 @@ Audit journey repo: https://github.com/0xumarkhatab/0xumarkhatab-audits
 I like explaining hard things in a simple way (bytecode, accounts, gas, DEX design).
 
 - **Birth of a Smart Contract (EVM bytecode edition)**  
-  X: https://x.com/0xumarkhatab/status/1958429309888077853  
-  LinkedIn: https://www.linkedin.com/posts/0xumarkhatab_the-birth-of-a-smart-contract-evm-bytecode-activity-7364198239790632960--4Sc
+  - [X-Link](https://x.com/0xumarkhatab/status/1958429309888077853) 
+  - [LinkedIn-Link](https://www.linkedin.com/posts/0xumarkhatab_the-birth-of-a-smart-contract-evm-bytecode-activity-7364198239790632960--4Sc) 
 
 - **Build a Uniswap v4 Hook (assembly-level explanation)**  
-  https://github.com/0xumarkhatab/Build-UniswapV4-Hooks/blob/master/Build-Your-Hook.md
+  [Link](https://github.com/0xumarkhatab/Build-UniswapV4-Hooks/blob/master/Build-Your-Hook.md)
 
 - **EVM Masterclass (YouTube)**  
-  https://www.youtube.com/watch?v=Hc-yLUq44aI
-
-More:  
-Twitter: https://twitter.com/0xumarkhatab  
-LinkedIn: https://www.linkedin.com/in/0xumarkhatab/  
-YouTube: https://www.youtube.com/@blockchain-ninja
+  [Link](https://www.youtube.com/watch?v=Hc-yLUq44aI)
 
 ---
 
@@ -93,4 +87,6 @@ YouTube: https://www.youtube.com/@blockchain-ninja
 ## 🤝 Let’s connect
 If you’re building DeFi infra, L2 apps, or anything “EVM but harder”, I’m usually interested.
 
-GitHub: https://github.com/0xumarkhatab
+Twitter: https://twitter.com/0xumarkhatab  
+LinkedIn: https://www.linkedin.com/in/0xumarkhatab/ 
+
