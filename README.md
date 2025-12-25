@@ -14,7 +14,7 @@ I build and break smart contracts (in a good way).
 - **Testing mindset:** I like measurable quality (coverage, invariants, edge cases)
 
 ---
-
+ 
 ## 🔥 What I’m focused on right now
 For the last ~6 months, I’ve been the Founding EVM Engineer at [**ViFi Labs** (FX onchain)](https://x.com/ViFi_Labs)
 I worked end-to-end — **Python simulations → Solidity (Foundry) implementation**, with a strong focus on:
