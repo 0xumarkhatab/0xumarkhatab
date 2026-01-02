@@ -100,7 +100,7 @@ Let's have a sneak-peak at what I've built in the public so far  :
 
 🛡 [**CryptoPunk**](https://github.com/0xumarkhatab/CryptoPunk) - A juicy front end for an NFTs exchange platform.
 
-## 2. About Me (As a DeFi Researcher/Writer )
+## 2. About Me (As a DeFi Researcher/Writer)
 Starting and building in Blockchain space seems daunting at first . That's why I simplify complex concepts and strive to put them in a way that a 10-20 year non-tech person can understand.
 
 Following is a glimpse of the type of content I deliver.
