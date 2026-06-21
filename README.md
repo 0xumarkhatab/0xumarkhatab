@@ -4,18 +4,18 @@ I build and break smart contracts (in a good way).
 **4+ years** in Solidity + EVM, shipping real protocols, writing tests, and doing security research.
 
  
-## 🔥 What I’m focused on right now
+## What I’m focused on right now
 For the last ~6 months, I’ve been the Founding EVM Engineer at [**ViFi Labs** (FX onchain)](https://x.com/ViFi_Labs)
 I worked end-to-end — **Python simulations → Solidity (Foundry) implementation**, with a strong focus on:
 - **gas-efficient + modular contract design**
 - **unit / integration / staging tests** (coverage **>97%**)
 - **well-commented deployment scripts**
 - deployed across multiple EVM testnets
-Launch target: **2026**
+Launch target: **2026 Q3**
 
 ---
 
-## 🧱 Stuff I build (and enjoy building)
+## Stuff I build (and enjoy building)
 - Lending / borrowing markets
 - AMMs (constant product + deeper mechanics)
 - Cross-chain messaging / bridges
@@ -38,7 +38,7 @@ Launch target: **2026**
 
 ---
 
-## 🛡️ Security work (bug bounties + audits)
+## Security work (bug bounties + audits)
 I started learning smart contract security on my own and kept showing up in contests.
 
 - **ZeroLend (High): Governance broken for whitelisted users**  
@@ -51,7 +51,7 @@ Audit journey repo: [Link](https://github.com/0xumarkhatab/0xumarkhatab-audits)
 
 ---
 
-## ✍️ Writing / teaching (Ethereum-focused)
+## Writing / teaching (Ethereum-focused)
 I like explaining hard things in a simple way (bytecode, accounts, gas, DEX design).
 
 - **Birth of a Smart Contract (EVM bytecode edition)**  
@@ -73,7 +73,7 @@ I like explaining hard things in a simple way (bytecode, accounts, gas, DEX desi
     - Pakistan's Nobel Institute for Learning Computer Science 
 
 
-## 🤝 Let’s connect
+## Let’s connect
 If you’re building DeFi infra, L2 apps, or anything “EVM but harder”, I’m usually interested.
 
 Twitter: https://twitter.com/0xumarkhatab  
