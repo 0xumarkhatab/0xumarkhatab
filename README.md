@@ -3,13 +3,6 @@
 I build and break smart contracts (in a good way).  
 **4+ years** in Solidity + EVM, shipping real protocols, writing tests, and doing security research.
 
-### You like the stats?
-- **160+ smart contracts** shipped across EVM chains  
-- **20k+ lines** of Solidity
-- **Security:** found **1 High + 1 Medium** on ZeroLend via Immunefi  
-- **Testing mindset:** I like measurable quality (coverage, invariants, edge cases)
-
----
  
 ## 🔥 What I’m focused on right now
 For the last ~6 months, I’ve been the Founding EVM Engineer at [**ViFi Labs** (FX onchain)](https://x.com/ViFi_Labs)
