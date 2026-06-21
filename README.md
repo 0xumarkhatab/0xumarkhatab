@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cc7809b3-651a-40bd-a7c0-453b80b971f6" alt="banner" />
-</div>
-
 ## 👋 Hey, I'm Umar Khatab
 
 I build and break smart contracts (in a good way).  
